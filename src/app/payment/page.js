@@ -147,10 +147,10 @@ export default function PaymentPage() {
         <div className="text-center mt-8 bg-white rounded-xl shadow-lg p-6">
           <p className="text-gray-600 mb-2">Questions about your appointment?</p>
           <a 
-            href="mailto:precious.touch@gmail.com"
+            href="mailto:precious.touch32@gmail.com"
             className="bg-gradient-to-r from-amber-700 to-yellow-600 bg-clip-text text-transparent font-semibold hover:from-amber-800 hover:to-yellow-700 transition-all"
           >
-            precious.touch@gmail.com
+            precious.touch32@gmail.com
           </a>
           <div className="mt-4">
             <a

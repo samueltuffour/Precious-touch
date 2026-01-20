@@ -807,7 +807,7 @@ export default function Home() {
                 <p className="text-gray-600 leading-relaxed mb-6 md:mb-8 text-sm md:text-base">
                   Booking your appointment is very easy. Simply click on the
                   "Book your Appointment" below. If you have any questions, you
-                  can reach me by text or email at precious.touch@gmail.com
+                  can reach me by text or email at precious.touch32@gmail.com
                 </p>
 
                 <button
@@ -1027,10 +1027,10 @@ export default function Home() {
                 </li>
                 <li>
                   <a
-                    href="mailto:precious.touch@gmail.com"
+                    href="mailto:precious.touch32@gmail.com"
                     className="text-gray-600 hover-gold transition-colors"
                   >
-                    precious.touch@gmail.com
+                    precious.touch32@gmail.com
                   </a>
                 </li>
                 <li className="text-gray-600 text-sm">
