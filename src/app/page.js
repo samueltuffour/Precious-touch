@@ -418,7 +418,7 @@ export default function Home() {
                 Small Knotless Braids
               </h3>
               <span className="text-lg md:text-xl lg:text-2xl text-white font-bold">
-                $130
+                $140
               </span>
             </div>
 
@@ -427,7 +427,7 @@ export default function Home() {
                 Medium Knotless Braids
               </h3>
               <span className="text-lg md:text-xl lg:text-2xl text-white font-bold">
-                $120
+                $130
               </span>
             </div>
 
@@ -436,7 +436,7 @@ export default function Home() {
                 Large Knotless Braids
               </h3>
               <span className="text-lg md:text-xl lg:text-2xl text-white font-bold">
-                $110
+                $120
               </span>
             </div>
 
@@ -444,17 +444,17 @@ export default function Home() {
               <h3 className="text-2xl text-white font-light">
                 Bob Knotless Braids
               </h3>
-              <span className="text-2xl text-white font-bold">$100</span>
+              <span className="text-2xl text-white font-bold">$110</span>
             </div>
 
             <div className="flex justify-between items-center py-4 border-b border-gray-700">
               <h3 className="text-2xl text-white font-light">Locs</h3>
-              <span className="text-2xl text-white font-bold">$115</span>
+              <span className="text-2xl text-white font-bold">$125</span>
             </div>
 
             <div className="flex justify-between items-center py-4 border-b border-gray-700">
               <h3 className="text-2xl text-white font-light">Passion Twist</h3>
-              <span className="text-2xl text-white font-bold">$115</span>
+              <span className="text-2xl text-white font-bold">$125</span>
             </div>
 
             <div className="flex justify-between items-center py-4 border-b border-gray-700">
@@ -462,14 +462,14 @@ export default function Home() {
                 Senegalese Twist{" "}
                 <span className="text-lg text-gray-400">(All Sizes)</span>
               </h3>
-              <span className="text-2xl text-white font-bold">$120</span>
+              <span className="text-2xl text-white font-bold">$130</span>
             </div>
 
             <div className="flex justify-between items-center py-4 border-b border-gray-700">
               <h3 className="text-2xl text-white font-light">
                 Twist, Braids, Cornrows
               </h3>
-              <span className="text-2xl text-white font-bold">$65</span>
+              <span className="text-2xl text-white font-bold">$75</span>
             </div>
 
             <div className="flex justify-between items-center py-4 border-b border-gray-700">
@@ -479,14 +479,14 @@ export default function Home() {
                   (half wig or wig cornrows in back)
                 </span>
               </h3>
-              <span className="text-2xl text-white font-bold">$50</span>
+              <span className="text-2xl text-white font-bold">$60</span>
             </div>
 
             <div className="flex justify-between items-center py-4 border-b border-gray-700">
               <h3 className="text-2xl text-white font-light">
                 Fulani Braids or Twists
               </h3>
-              <span className="text-2xl text-white font-bold">$120</span>
+              <span className="text-2xl text-white font-bold">$130</span>
             </div>
           </div>
 
