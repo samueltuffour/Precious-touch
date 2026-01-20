@@ -1,10 +1,11 @@
 // @ts-check
 
-/**
- * @type {import('next').NextConfig}
- */
-const nextConfig = {
-  /* config options here */
+export default (phase, { defaultConfig }) => {
+  /**
+   * @type {import('next').NextConfig}
+   */
+  const nextConfig = {
+    /* config options here */
+  };
+  return nextConfig;
 };
-
-export default nextConfig;
