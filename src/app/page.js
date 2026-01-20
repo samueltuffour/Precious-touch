@@ -479,14 +479,14 @@ export default function Home() {
                   (half wig or wig cornrows in back)
                 </span>
               </h3>
-              <span className="text-2xl text-white font-bold">$60</span>
+              <span className="text-2xl text-white font-bold">$70</span>
             </div>
 
             <div className="flex justify-between items-center py-4 border-b border-gray-700">
               <h3 className="text-2xl text-white font-light">
                 Fulani Braids or Twists
               </h3>
-              <span className="text-2xl text-white font-bold">$130</span>
+              <span className="text-2xl text-white font-bold">$140</span>
             </div>
           </div>
 
